@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f7b8f0f8a853e0742b25ff163bdd6e61
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 40c6922c292aa724c9dbff434748d656
+  - enabled: 1
+    path: Assets/Scenes/Stage1_NumberOrchard.unity
+    guid: ca691817138221c46b003d44a326db3d
+  - enabled: 1
+    path: Assets/Scenes/GardenScene.unity
+    guid: 8a051e347a043db4f8a1db46bc5bd458
+  - enabled: 1
+    path: Assets/Scenes/Stage2_ColorFlower.unity
+    guid: 8572f4c1bc20f1443a45a851b3c08b91
+  - enabled: 1
+    path: Assets/Scenes/Stage3_Alphabet Canopy.unity
+    guid: 8492f224a5f68554cb5ff9fc4300da70
+  - enabled: 1
+    path: Assets/Scenes/Stage4_Kolam Teratai Geometri.unity
+    guid: d0346481989830c4bab130824396ed13
+  - enabled: 1
+    path: Assets/Scenes/Stage5_Magical Forest Maze.unity
+    guid: bf97390c83680fd4dbdd2baaf3bac1e0
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

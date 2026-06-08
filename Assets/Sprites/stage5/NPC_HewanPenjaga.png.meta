@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: b9aefa1700603b540a9788332267c20a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6295644439135908361
+    second: NPC_HewanPenjaga_0
+  - first:
+      213: -4269196831271324135
+    second: NPC_HewanPenjaga_1
+  - first:
+      213: 1370635659828586097
+    second: NPC_HewanPenjaga_2
+  - first:
+      213: 6881878332368103979
+    second: NPC_HewanPenjaga_3
+  - first:
+      213: 3357539055147812106
+    second: NPC_HewanPenjaga_4
+  - first:
+      213: 1731355443805568995
+    second: NPC_HewanPenjaga_5
+  - first:
+      213: 4159365660498715977
+    second: NPC_HewanPenjaga_6
+  - first:
+      213: 3335119940791841105
+    second: NPC_HewanPenjaga_7
+  - first:
+      213: 5104038568613804981
+    second: NPC_HewanPenjaga_8
+  - first:
+      213: -8823000460790575923
+    second: NPC_HewanPenjaga_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 651
+        width: 202
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd04250db061a8a0800000000000000
+      internalID: -6295644439135908361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 650
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91679d3e914c0c4c0800000000000000
+      internalID: -4269196831271324135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 650
+        width: 196
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e094eed9750310800000000000000
+      internalID: 1370635659828586097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_3
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 651
+        width: 157
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a224ca1e7518f50800000000000000
+      internalID: 6881878332368103979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_4
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 652
+        width: 191
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05069d4bff589e20800000000000000
+      internalID: 3357539055147812106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 243
+        width: 183
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef38ff5a92070810800000000000000
+      internalID: 1731355443805568995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 242
+        width: 183
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ebfce70909b930800000000000000
+      internalID: 4159365660498715977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 238
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151383a7ae9b84e20800000000000000
+      internalID: 3335119940791841105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 238
+        width: 172
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb7e1a290035d640800000000000000
+      internalID: 5104038568613804981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_HewanPenjaga_9
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 239
+        width: 178
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4871c3d76e8580800000000000000
+      internalID: -8823000460790575923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fddd236e03f4a6f43bac717449ab9a51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_HewanPenjaga_0: -6295644439135908361
+      NPC_HewanPenjaga_1: -4269196831271324135
+      NPC_HewanPenjaga_2: 1370635659828586097
+      NPC_HewanPenjaga_3: 6881878332368103979
+      NPC_HewanPenjaga_4: 3357539055147812106
+      NPC_HewanPenjaga_5: 1731355443805568995
+      NPC_HewanPenjaga_6: 4159365660498715977
+      NPC_HewanPenjaga_7: 3335119940791841105
+      NPC_HewanPenjaga_8: 5104038568613804981
+      NPC_HewanPenjaga_9: -8823000460790575923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

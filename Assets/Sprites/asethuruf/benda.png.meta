@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 85366b95bc7c1a44e83c73923058c522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7481315731229283246
+    second: benda_0
+  - first:
+      213: -5284399778220191896
+    second: benda_1
+  - first:
+      213: 5415984376453907288
+    second: benda_2
+  - first:
+      213: 4190746665127316680
+    second: benda_3
+  - first:
+      213: -4437658698941761296
+    second: benda_4
+  - first:
+      213: -3894399174055714123
+    second: benda_5
+  - first:
+      213: 3528396296393842716
+    second: benda_6
+  - first:
+      213: -7428142113253502079
+    second: benda_7
+  - first:
+      213: 1428505843133536356
+    second: benda_8
+  - first:
+      213: 3540056977096489845
+    second: benda_9
+  - first:
+      213: 6856866507205951770
+    second: benda_10
+  - first:
+      213: -3186654265083033799
+    second: benda_11
+  - first:
+      213: -1338046556389158339
+    second: benda_12
+  - first:
+      213: 3223100312680133551
+    second: benda_13
+  - first:
+      213: -3688779997408393391
+    second: benda_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: benda_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 654
+        width: 263
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c698beaf60d2890800000000000000
+      internalID: -7481315731229283246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 654
+        width: 264
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f4800566a0aa6b0800000000000000
+      internalID: -5284399778220191896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 654
+        width: 265
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c9936811792b40800000000000000
+      internalID: 5415984376453907288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 654
+        width: 263
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc019e63e5882a30800000000000000
+      internalID: 4190746665127316680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 654
+        width: 264
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8772fcce44a62c0800000000000000
+      internalID: -4437658698941761296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 358
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a5d8a59054f9c0800000000000000
+      internalID: -3894399174055714123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 358
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10eb51ccb167f030800000000000000
+      internalID: 3528396296393842716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_7
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 358
+        width: 265
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d76e9a10f9e890800000000000000
+      internalID: -7428142113253502079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 358
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685b8bee7213d310800000000000000
+      internalID: 1428505843133536356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 358
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bba7c801fc02130800000000000000
+      internalID: 3540056977096489845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 263
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11c84252cb782f50800000000000000
+      internalID: 6856866507205951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 67
+        width: 263
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370ebb54dab6c3d0800000000000000
+      internalID: -3186654265083033799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 67
+        width: 265
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325d790fbd4e6de0800000000000000
+      internalID: -1338046556389158339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 67
+        width: 263
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ffbc58a0cabc20800000000000000
+      internalID: 3223100312680133551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benda_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 67
+        width: 264
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15708e7e222deccc0800000000000000
+      internalID: -3688779997408393391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a56aee07ace29a4eaf2cd877b3bba97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      benda_0: -7481315731229283246
+      benda_1: -5284399778220191896
+      benda_10: 6856866507205951770
+      benda_11: -3186654265083033799
+      benda_12: -1338046556389158339
+      benda_13: 3223100312680133551
+      benda_14: -3688779997408393391
+      benda_2: 5415984376453907288
+      benda_3: 4190746665127316680
+      benda_4: -4437658698941761296
+      benda_5: -3894399174055714123
+      benda_6: 3528396296393842716
+      benda_7: -7428142113253502079
+      benda_8: 1428505843133536356
+      benda_9: 3540056977096489845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

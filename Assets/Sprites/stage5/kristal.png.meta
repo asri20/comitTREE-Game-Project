@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 1f4a8a656d2b19b4cb45656d5aa9a5b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8942168071872441978
+    second: kristal_0
+  - first:
+      213: 7085051248817337828
+    second: kristal_1
+  - first:
+      213: -8337790583147196117
+    second: kristal_2
+  - first:
+      213: 1002423352271798178
+    second: kristal_3
+  - first:
+      213: 6597112145898963656
+    second: kristal_4
+  - first:
+      213: 8282122922879227746
+    second: kristal_5
+  - first:
+      213: -2594853765323128359
+    second: kristal_6
+  - first:
+      213: -6027593615966962359
+    second: kristal_7
+  - first:
+      213: 8055163893685860370
+    second: kristal_8
+  - first:
+      213: -5342175733278104082
+    second: kristal_9
+  - first:
+      213: -1809134413992567667
+    second: kristal_10
+  - first:
+      213: -9086039291877115945
+    second: kristal_11
+  - first:
+      213: 6504654874686455540
+    second: kristal_12
+  - first:
+      213: 2225931985634925336
+    second: kristal_13
+  - first:
+      213: 5309731908079104296
+    second: kristal_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kristal_0
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 720
+        width: 201
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eebc5db76f81c70800000000000000
+      internalID: 8942168071872441978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 722
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f1359298235260800000000000000
+      internalID: 7085051248817337828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 716
+        width: 206
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211aefd3a73a4c80800000000000000
+      internalID: -8337790583147196117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 720
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af77b25ab259ed00800000000000000
+      internalID: 1002423352271798178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 720
+        width: 211
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c209bf2b86ad8b50800000000000000
+      internalID: 6597112145898963656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 468
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2671654fae200f270800000000000000
+      internalID: 8282122922879227746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 466
+        width: 217
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d184d1af3a3dfbd0800000000000000
+      internalID: -2594853765323128359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 474
+        width: 209
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d70e5ba8fa95ca0800000000000000
+      internalID: -6027593615966962359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_8
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 473
+        width: 210
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b2ba12e0b9cf60800000000000000
+      internalID: 8055163893685860370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_9
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 472
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee52f328977ccd5b0800000000000000
+      internalID: -5342175733278104082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 216
+        width: 213
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd90fe5d9a4e6e0800000000000000
+      internalID: -1809134413992567667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 219
+        width: 212
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d73c686767e7e180800000000000000
+      internalID: -9086039291877115945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 219
+        width: 206
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef238352d254a50800000000000000
+      internalID: 6504654874686455540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_13
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 224
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b13f1f85914ee10800000000000000
+      internalID: 2225931985634925336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristal_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 224
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821bc99c905ffa940800000000000000
+      internalID: 5309731908079104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40f3f39c74236974abd5265d7c8b41e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kristal_0: 8942168071872441978
+      kristal_1: 7085051248817337828
+      kristal_10: -1809134413992567667
+      kristal_11: -9086039291877115945
+      kristal_12: 6504654874686455540
+      kristal_13: 2225931985634925336
+      kristal_14: 5309731908079104296
+      kristal_2: -8337790583147196117
+      kristal_3: 1002423352271798178
+      kristal_4: 6597112145898963656
+      kristal_5: 8282122922879227746
+      kristal_6: -2594853765323128359
+      kristal_7: -6027593615966962359
+      kristal_8: 8055163893685860370
+      kristal_9: -5342175733278104082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

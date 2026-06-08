@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 1062798073cb76d48aa51f23e64ae1dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1607788846829448046
+    second: Desain tanpa judul_0
+  - first:
+      213: -2766310895500907418
+    second: Desain tanpa judul_1
+  - first:
+      213: -7394498987268289058
+    second: Desain tanpa judul_2
+  - first:
+      213: 8521342199130413358
+    second: Desain tanpa judul_3
+  - first:
+      213: 6860387157251488399
+    second: Desain tanpa judul_4
+  - first:
+      213: -6033770680019740640
+    second: Desain tanpa judul_5
+  - first:
+      213: -3668907017582526834
+    second: Desain tanpa judul_6
+  - first:
+      213: -1111613552023518542
+    second: Desain tanpa judul_7
+  - first:
+      213: 8325425747687458828
+    second: Desain tanpa judul_8
+  - first:
+      213: 6199852434875764881
+    second: Desain tanpa judul_9
+  - first:
+      213: -2812902858175478179
+    second: Desain tanpa judul_10
+  - first:
+      213: -4243488225747812178
+    second: Desain tanpa judul_11
+  - first:
+      213: 8033191708377752839
+    second: Desain tanpa judul_12
+  - first:
+      213: -6912427141902282755
+    second: Desain tanpa judul_13
+  - first:
+      213: -826289391984487891
+    second: Desain tanpa judul_14
+  - first:
+      213: 4649259441748648693
+    second: Desain tanpa judul_15
+  - first:
+      213: 7322765685337265873
+    second: Desain tanpa judul_16
+  - first:
+      213: 4606785308733594930
+    second: Desain tanpa judul_17
+  - first:
+      213: -1020089174699117018
+    second: Desain tanpa judul_18
+  - first:
+      213: 3009714491741548359
+    second: Desain tanpa judul_19
+  - first:
+      213: 7619998293112037533
+    second: Desain tanpa judul_20
+  - first:
+      213: -1366515848195041126
+    second: Desain tanpa judul_21
+  - first:
+      213: 135778779135767773
+    second: Desain tanpa judul_22
+  - first:
+      213: -2870014464342990248
+    second: Desain tanpa judul_23
+  - first:
+      213: 3319334190134586556
+    second: Desain tanpa judul_24
+  - first:
+      213: 5182787307168597027
+    second: Desain tanpa judul_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karakter hewan_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 402
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc6c7a9903fe045ae7c7cf7c1eeb28
+      internalID: -1688101867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 402
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e5ccbfbb044046b5724afd6a63806
+      internalID: -2013343859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 399
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c098dbec26536b5439f8533c63c4bfa8
+      internalID: 641887559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 426
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5ef98bd8cdaa40a3bcb3193c0bf02
+      internalID: 1910076018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 402
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa87ab6bc1ef14c804ed632a11e9aa
+      internalID: -947064029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 398
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa42b22bedfbc4cad6ac85fb1f79cc
+      internalID: 1829392553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 318
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031814318883bde4791b5403de58fa9f
+      internalID: 1650820270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 318
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba70eb33ab8a84c9a6af311f7ac7a7
+      internalID: 1512929389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 318
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92adec3a198e742a36dd6484c271ef
+      internalID: 1202298011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 318
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bda93825f22264f909355e54eb43c4
+      internalID: 192918149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 254
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078956b8e79e9741920bff7e7ed512c
+      internalID: -911996549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 255
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c2f0bd1f292c409958e4b89b3edde
+      internalID: 1104310795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 254
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1782b886633ab47846397c6e839ff3
+      internalID: 1036020171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 254
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceff08b47e4cab429eff0b5b3ce3b72
+      internalID: -1787423812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 187
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ba0d807a0e39499a76a21228b4638
+      internalID: -1880435431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 213
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f1e9a7347f194880a139538ddb6e4
+      internalID: 2144201291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc74611143a5f449976c538687d3ac
+      internalID: 832843932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 187
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19ba182cd43b6498f3988a1598a7fb
+      internalID: 2001437602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 187
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2c2f63617bec41a6caa2a2b6bf577
+      internalID: 193524494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4273aef668d94844882593cee06c73f
+      internalID: -1642081154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 51
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956adb11e2ef5394f855c049b5fb2fe3
+      internalID: -597488133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 114
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30dc144856dd1742a6edb841cc2b08a
+      internalID: 1927079464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 51
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509d0561ca74a6479eb2be1f5fe72b1
+      internalID: 1995912025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 115
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd017bae3896d043957c04638c8f9b5
+      internalID: -502850255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf464ce2ad59a49bcb0da8da03fce4
+      internalID: 648804862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 114
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6375127bd50847b17faaa945ce308
+      internalID: 670553783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter hewan_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 51
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6906faae98d20946a4bc1580868fccd
+      internalID: -2134921175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 37c9f1da00884994284765d86b4e8f62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      karakter hewan_0: -1688101867
+      karakter hewan_1: -2013343859
+      karakter hewan_10: -911996549
+      karakter hewan_11: 1104310795
+      karakter hewan_12: 1036020171
+      karakter hewan_13: -1787423812
+      karakter hewan_14: -1880435431
+      karakter hewan_15: 2144201291
+      karakter hewan_16: 832843932
+      karakter hewan_17: 2001437602
+      karakter hewan_18: 193524494
+      karakter hewan_19: -1642081154
+      karakter hewan_2: 641887559
+      karakter hewan_20: -597488133
+      karakter hewan_21: 1927079464
+      karakter hewan_22: 1995912025
+      karakter hewan_23: -502850255
+      karakter hewan_24: 648804862
+      karakter hewan_25: 670553783
+      karakter hewan_26: -2134921175
+      karakter hewan_3: 1910076018
+      karakter hewan_4: -947064029
+      karakter hewan_5: 1829392553
+      karakter hewan_6: 1650820270
+      karakter hewan_7: 1512929389
+      karakter hewan_8: 1202298011
+      karakter hewan_9: 192918149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
